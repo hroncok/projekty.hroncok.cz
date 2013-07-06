@@ -1,0 +1,89 @@
+/* projekty.hroncok.cz */
+
+body {
+	background: #333;
+	color: #cacaca;
+	font-family: "Trebuchet MS";
+}
+
+h1 {
+	font-size: 450%;
+	text-align: center;
+}
+
+h2 {
+	font-size: 135%;
+	font-weight: normal;
+}
+
+a {
+	color: #606060;
+	text-decoration: none;
+}
+
+a:hover { color: #cacaca; }
+
+.web p {
+	text-align: justify;
+}
+
+.about a {
+	font-weight: bold;
+}
+
+.description {
+	font-style: italic;
+}
+
+.source {
+	font-size: 80%;
+}
+
+img.screen {
+	border: 3px solid;
+	width: 300px;
+}
+
+#kontajner { margin: 0em auto; }
+
+#left {
+	float: left;
+	width: 50%;
+}
+
+#left .web {
+	margin-top: 0em;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: 2.5em;
+}
+
+#right {
+	float: right;
+	width: 50%;
+}
+
+#right .web {
+	margin-top: 0em;
+	margin-bottom: auto;
+	margin-left: 2.5em;
+	margin-right: auto;
+}
+
+.web {
+	width: 306px;
+	border-bottom: 0.2em solid;
+}
+
+#lastleft {
+	border: none;
+}
+
+#lastright {
+	border: none;
+}
+
+#footer {
+	text-align: center;
+	clear: both;
+}

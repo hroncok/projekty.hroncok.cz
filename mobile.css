@@ -1,0 +1,9 @@
+/* m.hroncok.cz :) */
+body {
+	background: #333;
+	color: #cacaca;
+}
+a { color: #606060; }
+.web p { text-align: justify; }
+.about a { font-weight: bold; }
+.description { font-style: italic; }
